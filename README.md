@@ -1,2 +1,7 @@
-# demo-carrera-construye-srl
-Demo web para Carrera Construye SRL — diseñada por eterlab.
+# Carrera Construye SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
